@@ -1,1 +1,2 @@
-# Soron-Chandra-BArmon
+# Soron-Chandra-Barmon
+Soron RU
